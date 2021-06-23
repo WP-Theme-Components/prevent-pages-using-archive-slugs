@@ -1,0 +1,1 @@
+# prevent-pages-using-archive-slugs
